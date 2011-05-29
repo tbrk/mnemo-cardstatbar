@@ -1,6 +1,6 @@
 ##############################################################################
 #
-# cardstatbar.py <timbob@bigpond.com>
+# cardstatbar.py <tim@tbrk.org>
 #
 # Show card statistics in the status bar.
 #
